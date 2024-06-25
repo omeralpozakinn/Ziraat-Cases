@@ -1,0 +1,93 @@
+[
+  {
+    "key": "Tuketici Kredisi",
+    "type": "xpath",
+    "value": "(//a[contains(text(), 'Tüketici Kredisi')])"
+  },
+  {
+    "key": "Tuketici Kredisi Tutar Alani",
+    "type": "id",
+    "value": "calc-tutar"
+  },
+  {
+    "key": "Kredi Hesapla Butonu",
+    "type": "css",
+    "value": "a.btn.btn-red.calculation-btn"
+  },
+  {
+    "key": "Mevduat Hesapla Butonu",
+    "type": "css",
+    "value": "a.btn.btn-red.btn-save"
+  },
+
+  {
+    "key": "Hesaplama kontrol Tiki",
+    "type": "css",
+    "value": "div.icon-ok.icon"
+  },
+  {
+    "key": "Mevduat Getirisi Hesaplama",
+    "type": "xpath",
+    "value": "(//h2//a[@href='/tr/hesaplama-araclari/mevduat-getirisi-hesaplama'])"
+  },
+  {
+    "key": "Doviz Cinsleri",
+    "type": "css",
+    "value": "span.select2-selection.select2-selection--single"
+  },
+  {
+    "key": "Doviz Cinsi USD",
+    "type": "xpath",
+    "value": "(//ul//li[text()='USD'])"
+  },
+  {
+    "key": "Mevduat Gun Alani",
+    "type": "id",
+    "value": "deposit-calc-vade"
+  },
+  {
+    "key": "Tutar Alani",
+    "type": "id",
+    "value": "tutar"
+  },
+  {
+    "key": "IBAN Hesaplama",
+    "type": "xpath",
+    "value": "(//a[@href='/tr/hesaplama-araclari/iban-hesaplama'])"
+  },
+  {
+    "key": "Subeleri Kodlarina Gore Sirala",
+    "type": "css",
+    "value": "div.radio-box.sort-code"
+  },
+  {
+    "key": "Subeleri Goster",
+    "type": "id",
+    "value": "select2-ddlSube-container"
+  },
+  {
+    "key": "Subeler Arama Alani",
+    "type": "css",
+    "value": "input.select2-search__field"
+  },
+  {
+    "key": "Sube secilir",
+    "type": "css",
+    "value": "ul#select2-ddlSube-results li"
+  },
+  {
+    "key": "Musteri No",
+    "type": "id",
+    "value": "musteriNo"
+  },
+  {
+    "key": "Ek No",
+    "type": "id",
+    "value": "ekNo"
+  },
+  {
+    "key": "IBAN Hesapla Butonu",
+    "type": "css",
+    "value": "a.btn.btn-red.iban-calculate"
+  }
+]

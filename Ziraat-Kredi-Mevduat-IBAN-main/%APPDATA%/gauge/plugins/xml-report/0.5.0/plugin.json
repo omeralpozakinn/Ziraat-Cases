@@ -1,0 +1,32 @@
+{
+    "capabilities": [
+        "grpc_support"
+    ],
+    "command": {
+        "darwin": [
+            "bin/xml-report"
+        ],
+        "linux": [
+            "bin/xml-report"
+        ],
+        "windows": [
+            "bin/xml-report"
+        ]
+    },
+    "description": "Xml reporting plugin",
+    "gaugeVersionSupport": {
+        "maximum": "",
+        "minimum": "1.6.0"
+    },
+    "id": "xml-report",
+    "install": {
+        "darwin": [],
+        "linux": [],
+        "windows": []
+    },
+    "name": "Xml Report",
+    "scope": [
+        "Execution"
+    ],
+    "version": "0.5.0"
+}
